@@ -25,7 +25,7 @@ The assessment followed a four-phase approach:
 | `UnityTrust_Bank_Gap_Analysis.docx` | Full control-by-control gap analysis across all 93 ISO/IEC 27001:2022 Annex A controls, with current state, gap, and priority. |
 | `UnityTrust_Bank_Risk_Treatment_Plan.xlsx` | Risk register with Likelihood × Impact scoring, Mitigate treatment, mapped Annex A control, control owner, timeline, and residual risk. |
 | `https://github.com/shehzad-GRC/GRC-Unity-Trust-Bank-/blob/d83bb1d77ee967473413c6753f383e3cc7162bf1/UnityTrust_Bank_Statement_of_Applicability.docx` | Formal declaration of applicability, justification, and implementation status for all 93 Annex A controls. |
-| `UnityTrust_Bank_Consolidated_Project_Report.docx` | Executive-level report summarizing findings across all four deliverables. |
+[UnityTrust_Bank_Consolidated_Project_Report.docx](https://github.com/shehzad-GRC/GRC-Unity-Trust-Bank-/blob/3fadff2b2449fea6dbb213d7d7b8ff42641fec10/UnityTrust_Bank_Consolidated_Project_Report.docx) | Executive-level report summarizing findings across all four deliverables. |
 
 ## Key Findings
 
