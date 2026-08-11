@@ -21,7 +21,7 @@ The assessment followed a four-phase approach:
 
 | File | Description |
 |---|---|
-| `UnityTrust_Bank_Asset_Threat_Register.xlsx` | 26 identified assets, rated by CIA score and estimated financial impact (PKR), each mapped to specific threats and vulnerabilities. |
+|https://github.com/shehzad-GRC/GRC-Unity-Trust-Bank-/blob/7a2ab9d43af612dcf18fa3199948b1cd15177edc/UnityTrust_Bank_Asset_Threat_Register.xlsx| 26 identified assets, rated by CIA score and estimated financial impact (PKR), each mapped to specific threats and vulnerabilities. |
 | `UnityTrust_Bank_Gap_Analysis.docx` | Full control-by-control gap analysis across all 93 ISO/IEC 27001:2022 Annex A controls, with current state, gap, and priority. |
 | `UnityTrust_Bank_Risk_Treatment_Plan.xlsx` | Risk register with Likelihood × Impact scoring, Mitigate treatment, mapped Annex A control, control owner, timeline, and residual risk. |
 | `https://github.com/shehzad-GRC/GRC-Unity-Trust-Bank-/blob/d83bb1d77ee967473413c6753f383e3cc7162bf1/UnityTrust_Bank_Statement_of_Applicability.docx` | Formal declaration of applicability, justification, and implementation status for all 93 Annex A controls. |
