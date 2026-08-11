@@ -46,4 +46,4 @@ UnityTrust Bank is a fictional organization created for this case study. All fig
 
 **Shehzad Ahmad**
 GRC Intern, PKCERT (National CERT Pakistan)
-[LinkedIn](https://linkedin.com/in/shehzad-ahmad) · [GitHub](https://github.com/shehzad-cyber)
+[LinkedIn](https://www.linkedin.com/in/shehzad-ahmad153)
